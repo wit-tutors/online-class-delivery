@@ -1,3 +1,3 @@
-Recording Lectures with OBS
+Recording a Presentations 
 
-Using OBS to record a presentation
+Using OBS to record a PPT presentation
